@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+booking-agent-env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Frontend (not needed for backend)
+frontend/
+booking-agent/frontend/
+
+# Credentials and sensitive files
+credentials/
+*.json
+!backend/app/config/*.json
+
+# Sessions (will be created at runtime)
+sessions/
+
+# Test files
+tests/
+test_*.py
+*_test.py
+
+# Documentation
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore
+
+# Fly.io
+fly.toml
+FLY_DEPLOYMENT.md
+
+# Docker
+Dockerfile.alternative
+DOCKER_TROUBLESHOOTING.md
+
+# Development files
+start_*.py
+check_*.py
+test_*.py 

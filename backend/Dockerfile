@@ -20,13 +20,13 @@ RUN apt-get update && \
 RUN pip install --upgrade pip
 
 # Copy requirements first for better Docker layer caching
-COPY requirements.txt .
+COPY backend/requirements.txt .
 
 # Install Python dependencies robustly
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the application code
-COPY . .
+# Copy the backend application code
+COPY backend/ .
 
 # Expose the port (Railway will set PORT environment variable)
 EXPOSE $PORT

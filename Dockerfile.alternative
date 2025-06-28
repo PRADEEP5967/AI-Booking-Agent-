@@ -1,0 +1,54 @@
+# Alternative Dockerfile with better network resilience
+# Use a different base image that might be more accessible
+FROM python:3.11-alpine
+
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1
+
+# Set working directory
+WORKDIR /app
+
+# Install system dependencies (Alpine uses apk instead of apt)
+RUN apk update && \
+    apk add --no-cache \
+        gcc \
+        musl-dev \
+        libffi-dev \
+        openssl-dev \
+        postgresql-dev \
+        curl \
+        ca-certificates && \
+    rm -rf /var/cache/apk/*
+
+# Upgrade pip
+RUN python -m pip install --upgrade pip setuptools wheel
+
+# Copy requirements
+COPY backend/requirements.txt .
+
+# Install Python dependencies with retry
+RUN pip install --no-cache-dir --retries 3 --timeout 300 -r requirements.txt
+
+# Copy application code
+COPY backend/ .
+
+# Create directories
+RUN mkdir -p /app/sessions /app/logs
+
+# Expose port
+EXPOSE $PORT
+
+# Create non-root user
+RUN adduser -D -u 1000 appuser && \
+    chown -R appuser:appuser /app
+USER appuser
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
+    CMD curl -f http://localhost:$PORT/health || exit 1
+
+# Start command
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--proxy-headers", "--forwarded-allow-ips", "*"] 
