@@ -1,0 +1,2211 @@
+{
+  "session_id": "eafd794d-4484-44e6-9107-519a158dfb90",
+  "stage": "showing_slots",
+  "messages": [
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\u25cf \"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date you mentioned. **Could you please specify a date?**\n\nExamples:\n\u2022 'tomorrow' or 'next Monday'\n\u2022 'December 15th' or '2024-12-15'\n\u2022 Or any other date that works for you",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {
+    "service_type": "meeting",
+    "preferred_time": "17:00"
+  },
+  "available_slots": []
+}

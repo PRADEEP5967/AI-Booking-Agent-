@@ -1,0 +1,50 @@
+{
+  "session_id": "255cbd7d-8782-4c6f-affd-24b9e899c90a",
+  "stage": "completed",
+  "messages": [
+    {
+      "role": "user",
+      "content": "i need book my tomorrow metting in 10 am",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I'd be happy to help you book an appointment! What type of service would you like? (consultation, therapy, workshop, meeting, etc.)",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "metting",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Great! I can help you book a meeting. Let me check available slots for tomorrow at 10 AM.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "12 pm",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Here are some available slots for tomorrow:\n1. 10:00 AM - 11:00 AM\n2. 2:00 PM - 3:00 PM\n3. 4:00 PM - 5:00 PM\n\nWhich slot would you prefer?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "12 pm",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect! I've confirmed your meeting for tomorrow at 10:00 AM. You'll receive a confirmation email shortly. Is there anything else I can help you with?",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {
+    "service_type": "meeting"
+  },
+  "available_slots": []
+}

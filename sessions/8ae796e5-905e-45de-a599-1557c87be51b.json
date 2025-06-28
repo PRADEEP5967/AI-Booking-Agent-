@@ -1,0 +1,18 @@
+{
+  "session_id": "8ae796e5-905e-45de-a599-1557c87be51b",
+  "stage": "collecting_info",
+  "messages": [
+    {
+      "role": "user",
+      "content": "i need book my tomorrow metting in 10 am",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I'd be happy to help you book an appointment! What type of service would you like? (consultation, therapy, workshop, meeting, etc.)",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {},
+  "available_slots": []
+}

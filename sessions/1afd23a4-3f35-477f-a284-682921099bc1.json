@@ -1,0 +1,22 @@
+{
+  "session_id": "1afd23a4-3f35-477f-a284-682921099bc1",
+  "stage": "showing_slots",
+  "messages": [
+    {
+      "role": "user",
+      "content": "i need book my tomorrow meeting in 10 am",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Great! I can help you book a meeting for 2025-06-29 at 10 am. Let me check available slots.",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {
+    "service_type": "meeting",
+    "date": "2025-06-29",
+    "time": "10 am"
+  },
+  "available_slots": []
+}

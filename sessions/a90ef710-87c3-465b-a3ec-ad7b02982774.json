@@ -1,0 +1,190 @@
+{
+  "session_id": "a90ef710-87c3-465b-a3ec-ad7b02982774",
+  "stage": "booking",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I need to book a 1-hour meeting for a project review",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Great! I can help you book a meeting. To get started, I'll need some information from you.\n\nCould you please provide your full name?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "Can you schedule a meeting for next Monday at 10 AM for 30 minutes?",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Can You Schedule A Meeting For Next Monday At 10 Am For 30 Minutes?! Now I'll need your email address to send you the booking confirmation.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "I'd like to book a meeting for tomorrow at 2 PM for 1 hour",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I need a valid email address. Could you please provide your email?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "pradeepsahani8130s@gmail.com",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect! Would you like to provide a phone number as well? (This is optional but helpful for urgent updates)",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "8285410356",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Great! Now let's find a good time for your appointment. What date would work best for you? You can say something like 'tomorrow', 'next Monday', or give me a specific date.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "\"Book a meeting between 3-5 PM next week.\"",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't understand the date. Could you please specify a date? For example: 'tomorrow', 'December 15th', 'next Monday', or '2024-12-15'.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "I'd like to book a meeting for tomorrow at 2 PM for 1 hour",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the available time slots for June 29, 2025:\n\n1. 09:00 AM\n2. 09:30 AM\n3. 10:00 AM\n4. 10:30 AM\n5. 11:00 AM\n\nWhich time would you prefer?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "11 am",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Please confirm if you'd like to book this appointment by saying 'yes' or 'confirm', or say 'no' if you'd like to see other options.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "yes",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect! I'm creating your booking now...",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {
+    "service_type": "meeting",
+    "customer_name": "Can You Schedule A Meeting For Next Monday At 10 Am For 30 Minutes?",
+    "customer_email": "pradeepsahani8130s@gmail.com",
+    "customer_phone": "8285410356",
+    "scheduled_date": "2025-06-29"
+  },
+  "available_slots": [
+    {
+      "start_time": "2025-06-29 09:00:00+00:00",
+      "end_time": "2025-06-29 10:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 09:30:00+00:00",
+      "end_time": "2025-06-29 10:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 10:00:00+00:00",
+      "end_time": "2025-06-29 11:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 10:30:00+00:00",
+      "end_time": "2025-06-29 11:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 11:00:00+00:00",
+      "end_time": "2025-06-29 12:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 11:30:00+00:00",
+      "end_time": "2025-06-29 12:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 12:00:00+00:00",
+      "end_time": "2025-06-29 13:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 12:30:00+00:00",
+      "end_time": "2025-06-29 13:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 13:00:00+00:00",
+      "end_time": "2025-06-29 14:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 13:30:00+00:00",
+      "end_time": "2025-06-29 14:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 14:00:00+00:00",
+      "end_time": "2025-06-29 15:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 14:30:00+00:00",
+      "end_time": "2025-06-29 15:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 15:00:00+00:00",
+      "end_time": "2025-06-29 16:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 15:30:00+00:00",
+      "end_time": "2025-06-29 16:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-29 16:00:00+00:00",
+      "end_time": "2025-06-29 17:00:00+00:00",
+      "available": true
+    }
+  ]
+}

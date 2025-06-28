@@ -1,0 +1,40 @@
+# AI Booking Agent Environment Configuration
+# Copy this file to .env and fill in your values
+
+# API Configuration
+API_HOST=0.0.0.0
+API_PORT=8000
+API_RELOAD=true
+
+# Frontend Configuration
+FRONTEND_PORT=8502
+BOOKING_AGENT_API_URL=http://localhost:8000
+BOOKING_AGENT_API_TIMEOUT=30
+
+# Google Calendar Configuration
+# Download credentials from Google Cloud Console
+GOOGLE_CALENDAR_CREDENTIALS_FILE=credentials/google_credentials.json
+GOOGLE_CALENDAR_TOKEN_FILE=token.json
+CALENDAR_ID=primary
+USE_MOCK_CALENDAR=true
+
+# AI/LLM Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+LLM_MODEL=gpt-3.5-turbo
+
+# Database Configuration (Optional)
+DATABASE_URL=sqlite:///./booking_agent.db
+
+# Redis Configuration (Optional - for production)
+REDIS_URL=redis://localhost:6379
+
+# CORS Configuration
+CORS_ORIGINS=http://localhost:8501,http://127.0.0.1:8501,http://localhost:8502,http://127.0.0.1:8502
+
+# Logging Configuration
+LOG_LEVEL=INFO
+
+# Session Configuration
+SESSION_TIMEOUT_HOURS=24
+MAX_SESSIONS_PER_USER=5 

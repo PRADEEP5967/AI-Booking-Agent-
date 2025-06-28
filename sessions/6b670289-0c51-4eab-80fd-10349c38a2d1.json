@@ -1,0 +1,100 @@
+{
+  "session_id": "6b670289-0c51-4eab-80fd-10349c38a2d1",
+  "stage": "confirming",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Can you schedule a meeting for next Monday at 10 AM for 30 minutes?",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the available time slots for June 30, 2025:\n\n1. 09:00 AM\n2. 09:30 AM\n3. 10:00 AM\n4. 10:30 AM\n5. 11:00 AM\n\nWhich time would you prefer?",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {
+    "service_type": "meeting",
+    "preferred_date": "2025-06-30",
+    "preferred_time": "10:00",
+    "duration_minutes": 30,
+    "scheduled_date": "2025-06-30"
+  },
+  "available_slots": [
+    {
+      "start_time": "2025-06-30 09:00:00+00:00",
+      "end_time": "2025-06-30 09:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 09:30:00+00:00",
+      "end_time": "2025-06-30 10:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 10:00:00+00:00",
+      "end_time": "2025-06-30 10:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 10:30:00+00:00",
+      "end_time": "2025-06-30 11:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 11:00:00+00:00",
+      "end_time": "2025-06-30 11:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 11:30:00+00:00",
+      "end_time": "2025-06-30 12:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 12:00:00+00:00",
+      "end_time": "2025-06-30 12:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 12:30:00+00:00",
+      "end_time": "2025-06-30 13:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 13:00:00+00:00",
+      "end_time": "2025-06-30 13:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 13:30:00+00:00",
+      "end_time": "2025-06-30 14:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 14:00:00+00:00",
+      "end_time": "2025-06-30 14:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 14:30:00+00:00",
+      "end_time": "2025-06-30 15:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 15:00:00+00:00",
+      "end_time": "2025-06-30 15:30:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 15:30:00+00:00",
+      "end_time": "2025-06-30 16:00:00+00:00",
+      "available": true
+    },
+    {
+      "start_time": "2025-06-30 16:00:00+00:00",
+      "end_time": "2025-06-30 16:30:00+00:00",
+      "available": true
+    }
+  ]
+}

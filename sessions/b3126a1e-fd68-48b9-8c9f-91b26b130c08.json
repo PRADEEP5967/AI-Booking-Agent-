@@ -1,0 +1,38 @@
+{
+  "session_id": "b3126a1e-fd68-48b9-8c9f-91b26b130c08",
+  "stage": "greeting",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm your booking assistant. I can help you schedule an appointment for various services including:\n\n- Consultation (30-60 minutes)\n- Therapy Session (60 minutes)\n- Workshop (90-120 minutes)\n- Meeting (30-60 minutes)\n\nWhat type of service would you like to book today?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm your booking assistant. I can help you schedule an appointment for various services including:\n\n- Consultation (30-60 minutes)\n- Therapy Session (60 minutes)\n- Workshop (90-120 minutes)\n- Meeting (30-60 minutes)\n\nWhat type of service would you like to book today?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm your booking assistant. I can help you schedule an appointment for various services including:\n\n- Consultation (30-60 minutes)\n- Therapy Session (60 minutes)\n- Workshop (90-120 minutes)\n- Meeting (30-60 minutes)\n\nWhat type of service would you like to book today?",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {},
+  "available_slots": []
+}

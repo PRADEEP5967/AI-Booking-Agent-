@@ -1,0 +1,25 @@
+{
+  "session_id": "ef25f52a-2d37-4758-bb61-f65c36464ed8",
+  "stage": "confirming",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I need a consultation tomorrow at 10 AM",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "You've selected **01:30 PM** on **June 29, 2025**. \n\n**Should I book this slot for you?**",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {
+    "service_type": "consultation",
+    "preferred_date": "2025-06-29",
+    "preferred_time": "10:00",
+    "scheduled_date": "2025-06-29",
+    "scheduled_datetime": "2025-06-29 13:30",
+    "duration_minutes": 60
+  },
+  "available_slots": []
+}

@@ -1,0 +1,74 @@
+{
+  "session_id": "1791aa55-24c3-40d3-b316-5194aeed41d8",
+  "stage": "collecting_info",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm your booking assistant. I can help you schedule an appointment for various services including:\n\n- Consultation (30-60 minutes)\n- Therapy Session (60 minutes)\n- Workshop (90-120 minutes)\n- Meeting (30-60 minutes)\n\nWhat type of service would you like to book today?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "Can you schedule a meeting for next Monday at 10 AM for 30 minutes?",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Great! I can help you book a meeting. To get started, I'll need some information from you.\n\nCould you please provide your full name?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "Can you schedule a meeting for next Monday at 10 AM for 30 minutes?",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Can You Schedule A Meeting For Next Monday At 10 Am For 30 Minutes?! Now I'll need your email address to send you the booking confirmation.",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "Can you schedule a meeting for next Monday at 10 AM for 30 minutes?",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I need a valid email address. Could you please provide your email?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "Can you schedule a meeting for next Monday at 10 AM for 30 minutes?",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I need a valid email address. Could you please provide your email?",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "Can you schedule a meeting for next Monday at 10 AM for 30 minutes?",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "I need a valid email address. Could you please provide your email?",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {
+    "service_type": "meeting",
+    "customer_name": "Can You Schedule A Meeting For Next Monday At 10 Am For 30 Minutes?",
+    "preferred_date": "2025-06-30",
+    "preferred_time": "10:00",
+    "duration_minutes": 30
+  },
+  "available_slots": []
+}

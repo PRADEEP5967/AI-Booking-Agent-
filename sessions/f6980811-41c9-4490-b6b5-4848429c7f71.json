@@ -1,0 +1,30 @@
+{
+  "session_id": "f6980811-41c9-4490-b6b5-4848429c7f71",
+  "stage": "greeting",
+  "messages": [
+    {
+      "role": "user",
+      "content": "i need book my tomorrow metting in 10 am",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm your AI booking assistant. I can help you schedule appointments for various services including:\n\n\u2022 **Consultation** (30-60 minutes)\n\u2022 **Therapy Session** (60 minutes)\n\u2022 **Workshop** (90-120 minutes)\n\u2022 **Meeting** (30-60 minutes)\n\u2022 **Business Consultation** (45-90 minutes)\n\u2022 **Creative Session** (60-90 minutes)\n\nHow can I help you today?\nYou can simply tell me what you need, like:\n\u2022 'I need a consultation tomorrow at 10 AM'\n\u2022 'Book a therapy session for next Monday'\n\u2022 'Schedule a workshop for next week'\n\n**Quick Actions:**\n\u2022 Book a meeting\n\u2022 Show available slots",
+      "timestamp": null
+    },
+    {
+      "role": "user",
+      "content": "metting",
+      "timestamp": null
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm your AI booking assistant. I can help you schedule appointments for various services including:\n\n\u2022 **Consultation** (30-60 minutes)\n\u2022 **Therapy Session** (60 minutes)\n\u2022 **Workshop** (90-120 minutes)\n\u2022 **Meeting** (30-60 minutes)\n\u2022 **Business Consultation** (45-90 minutes)\n\u2022 **Creative Session** (60-90 minutes)\n\nHow can I help you today?\nYou can simply tell me what you need, like:\n\u2022 'I need a consultation tomorrow at 10 AM'\n\u2022 'Book a therapy session for next Monday'\n\u2022 'Schedule a workshop for next week'\n\n**Quick Actions:**\n\u2022 Book a meeting\n\u2022 Show available slots",
+      "timestamp": null
+    }
+  ],
+  "current_booking_data": {
+    "service_type": "meeting"
+  },
+  "available_slots": []
+}
